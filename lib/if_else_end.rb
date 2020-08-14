@@ -1,6 +1,6 @@
 # Write your solution
 
 if (Time.now % 2 == 0)
-  puts "Even"
+  puts "Even!"
 else
-  puts "Odd"
+  puts "Odd!"
